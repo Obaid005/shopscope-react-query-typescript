@@ -2,6 +2,10 @@
 
 A React TypeScript application for browsing and favoriting products with infinite loading and search functionality.
 
+
+https://github.com/user-attachments/assets/fa5cf330-17b3-4d92-b7e0-6dc6255ff55d
+
+
 ## ✨ Features
 
 ### 🎯 Core Functionality
